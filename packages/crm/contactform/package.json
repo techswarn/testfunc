@@ -1,7 +1,7 @@
 {
   "main": "lib/hello.js",
   "devDependencies": {
-    "typescript": "^4"
+    "typescript": "^4.6.3"
   },
   "scripts": {
     "build": "tsc -b"
