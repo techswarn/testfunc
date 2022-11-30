@@ -1,6 +1,0 @@
-{
-  "main": "lib/hello.js",
-  "scripts": {
-    "build": "tsc -b"
-  }
-}
