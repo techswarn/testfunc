@@ -2,13 +2,8 @@
     "name": "crm",
     "version": "1.0.0",
     "description": "CRM",
-    "main": "dist/index.js",
+    "main": "index.ts",
     "license": "UNLICENSED",
-    "scripts": {
-        "local-sbuild": "build.sh",
-        "test": "jest",
-        "test:watch": "jest --watch"
-    },
     "dependencies": {
       "undici": "^5.13.0",
       "jest": "^29.3.1"
