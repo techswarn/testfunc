@@ -5,7 +5,7 @@
     "main": "dist/index.js",
     "license": "UNLICENSED",
     "scripts": {
-        "build": "build.sh",
+        "local-sbuild": "build.sh",
         "test": "jest",
         "test:watch": "jest --watch"
     },
