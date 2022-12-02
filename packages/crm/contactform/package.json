@@ -1,0 +1,16 @@
+{
+    "name": "crm",
+    "version": "1.0.0",
+    "description": "CRM",
+    "main": "index.ts",
+    "license": "UNLICENSED",
+    "dependencies": {
+      "undici": "^5.13.0",
+      "jest": "^29.3.1"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.2.3",
+        "ts-jest": "^29.0.3",
+        "typescript": "^4.6.3"
+    }
+}
