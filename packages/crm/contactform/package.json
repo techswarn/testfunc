@@ -2,7 +2,7 @@
     "name": "crm",
     "version": "1.0.0",
     "description": "CRM",
-    "main": "index.ts",
+    "main": "dist/index.js",
     "license": "UNLICENSED",
     "dependencies": {
       "undici": "^5.13.0",
